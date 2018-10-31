@@ -27,3 +27,5 @@ cvs은 특정 소스의 위치를 변경하거나, 하위 디렉토리의 위치
 이력추적을 할 수 없게 되지만, svn에서는 이력추적이 가능해진다.
 
 출처:(https://m.blog.naver.com/PostView.nhn?blogId=ssan1981&logNo=50107973466&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
+
+**git은 CVS에서 버전 관리에 Open Source 더한 것.** 

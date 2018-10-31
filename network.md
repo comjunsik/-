@@ -89,3 +89,15 @@ Java Data Base Connection의 약자로 JAVA 언어를 통해 데이터 베이스
 ![image](https://user-images.githubusercontent.com/41488792/47793904-a9cb3300-dd62-11e8-9206-4cf33378c6ab.png)
 
 출처 : https://coding-factory.tistory.com/143
+
+# JSP를 공부한 이유
++ 자바 언어를 기반으로 하고 있기 때문에 플랫폼에 사관없이 사용할 수 있습니다.
+(OS에 독립적)
++ 자바 언어에 대한 깊은 이해가 없더라도 빠르게 배울 수 있습니다.
++ 대규모 어플리케이션을 구현할 때 사용되는 스프링과 같은 프레임워크와 완벽하게 연동되며, 금융권에서 많이 사용되는 다른 엔터프라이즈 기술과도 완벽하게 연동됩니다.
+
+# JSON
+JavaScript Object Notation 자바스크립트 객체 표기법
+
+JSON은 **"네트워크를 통해 데이터를 주고받는 데 자주 사용되는 경량의 데이터 형식"** <br>
+

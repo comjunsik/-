@@ -65,7 +65,7 @@
         3. Class Loader를 통해 class파일들을 JVM으로 로딩한다.
         4. 로딩된 class파일들은 Exectuion engine을 통해 해석된다.
         5. 해석된 바이트코드는 Runtime Data Areas 에 배치되어 실질적인 수행이 이루어지게 된다.
-        **이러한 실행과정 속에서 JVM은 필요에 따라 Thread Synchroiztion과 GC같은 관리작업을 수행한다.**<br> 
+        **이러한 실행과정 속에서 JVM은 필요에 따라 Thread Synchroiztion과 GC같은 관리작업을 수행한다.** <br> 
         ![image](https://user-images.githubusercontent.com/41488792/47767168-c12fff00-dd15-11e8-982a-8cc5794cdf17.png)
     + 다양한 Open 라이브러리들이 존재한다.
 

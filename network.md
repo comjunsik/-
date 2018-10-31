@@ -76,3 +76,15 @@ Java Data Base Connection의 약자로 JAVA 언어를 통해 데이터 베이스
     + 데이터의 전소 순서가 바뀔 수 있음
     + 데이터 수신 여부 확인 암함(3-way hadshaking과 같은 과정x)
     + TCP보다 전송속도가 빠름
+
+# jQuery란?
+![image](https://user-images.githubusercontent.com/41488792/47792999-98812700-dd60-11e8-94c2-34ce91fa44ac.png)
+출처:http://mkil.tistory.com/166
+
+# Ajax란?
+![image](https://user-images.githubusercontent.com/41488792/47793408-88b61280-dd61-11e8-8f14-17cfca1ddbe0.png)
+![image](https://user-images.githubusercontent.com/41488792/47793445-a08d9680-dd61-11e8-8dd4-faf7878733d9.png)
+![image](https://user-images.githubusercontent.com/41488792/47793481-af744900-dd61-11e8-831c-c85129054dcf.png)
+![image](https://user-images.githubusercontent.com/41488792/47793870-9ae48080-dd62-11e8-836d-56b067e8fe0c.png)
+![image](https://user-images.githubusercontent.com/41488792/47793904-a9cb3300-dd62-11e8-9206-4cf33378c6ab.png)
+출처 : https://coding-factory.tistory.com/143

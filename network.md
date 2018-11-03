@@ -101,14 +101,3 @@ JavaScript Object Notation 자바스크립트 객체 표기법
 
 JSON은 **"네트워크를 통해 데이터를 주고받는 데 자주 사용되는 경량의 데이터 형식"** <br>
 
-# 어노테이션(Annotation) 이란?
-이 어노테이션으로 인해 데이터의 유효성 검사 등을 쉽게 알 수 있고, 이와 관련한 코드가 깔끔해지게 됩니다.
-일단 어노테이션의 용도는 다양한 목적이 있지만 **메타 데이터의 비중**이 가장 크다 할 수 있습니다.
-
-<h3>메타-테이터(Meta-Data)</h3> : 데이터를 위한 데이터를 의미하며, 풀어 이야기하면 한 데이터에 대한 설명을 의미하는 데이터. (자신의 정보를 담고 있는 데이터)
-
-![image](https://user-images.githubusercontent.com/41488792/47957663-b8814680-dffd-11e8-9d60-1a5342baaa10.png)
-![image](https://user-images.githubusercontent.com/41488792/47957670-d9e23280-dffd-11e8-9f68-9ff7cc5004fe.png)
-![image](https://user-images.githubusercontent.com/41488792/47957676-f1b9b680-dffd-11e8-953f-80b2dceacde9.png)
-
-출처: https://elfinlas.github.io/2017/12/14/java-annotation/

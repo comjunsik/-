@@ -85,3 +85,10 @@ DB 서버측에 만들어 두는 함수 정도로 이해하시면 되겠습니�
 
 https://lng1982.tistory.com/144
 나중에 자세히 보도록 하자 ㅠ
+
+# DB 정규화
+![image](https://user-images.githubusercontent.com/41488792/48781847-347ace80-ed20-11e8-954c-75e27ff86572.png)
+![image](https://user-images.githubusercontent.com/41488792/48781930-5c6a3200-ed20-11e8-9ab9-e4f10a58eb76.png)
+![image](https://user-images.githubusercontent.com/41488792/48782003-83c0ff00-ed20-11e8-965b-2146b1d34a1d.png)
+![image](https://user-images.githubusercontent.com/41488792/48782062-ad7a2600-ed20-11e8-8007-065b20553179.png)
+![image](https://user-images.githubusercontent.com/41488792/48782079-ba971500-ed20-11e8-8320-b88f310fff3d.png)
